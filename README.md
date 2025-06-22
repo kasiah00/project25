@@ -9,5 +9,6 @@ The rule is simple.
 3. After each guess, opponent gives feedback:
    
   Bulls: Number of digits that are correct and in the correct position.
+  
   Cows: Number of digits that are correct but in the wrong position.
 
