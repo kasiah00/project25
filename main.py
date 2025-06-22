@@ -74,3 +74,6 @@ def main():
             break
 
         turn += 1
+
+if __name__ == "__main__":
+    main()
