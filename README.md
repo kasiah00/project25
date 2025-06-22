@@ -1,7 +1,7 @@
 # project25
 python project
 
-I have made a code for a game called 'Bulls and cows' known for '야구게임'. Where player gets to play with computer with difficulties 'easy' or 'hard'.
+I have made a code for a game called 'Bulls and cows' known for '야구게임'. Where player gets to play with computer for difficulties 'easy' or 'hard'.
 
 The rule is simple.
 1. Each player(computer) picks a 4 digit number where all digits are unique and leading zero is allowed.
@@ -11,4 +11,6 @@ The rule is simple.
       Bulls: Number of digits that are correct and in the correct position.
 
       Cows: Number of digits that are correct but in the wrong position.
+
+4.If you guess the opponent's number faster than your opponent you wins!
 
